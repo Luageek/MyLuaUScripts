@@ -1,2 +1,2 @@
-print("Loaded")
+printidentity()
 -- this is a placeholder for now, credits to me...
